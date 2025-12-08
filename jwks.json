@@ -2,12 +2,13 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "myapp",
+      "kid": "YKGHCYSF",
       "n": "tX8-9Acs5PWlj_Mvrtdr0E7eny2dDEGnvV2EzmWJv67qh08LjAag3VOHm21FHN0j3TaCDxBWirX2myIJy2GzfB4FDWucZrB3r6c0qTf-bmm7aH2I2-mvWEGgmKaXeUnP2OLM0R_Os13GxjqWlIQQCmbV_sm80KS_UKFHR6AMi8uYYm0VJvwl7moo-CsFfBx2K45CU3SRfWAz0X9_TefF-4LRjY1FNwYohvAGUrtlwcJuCbDmEeEpbpHXLW63kkgzmm-7Efx71vQFlxmWGjDfL-uvk4MK2m8kzCVuXXggrx2P_Lt8RAV69aj3UQUkkr3WVrRzXEazxSTZASHg9Bfm8iQ",
       "e": "AQAB",
       "alg": "RS384"
     }
   ]
 }
+
 
 
