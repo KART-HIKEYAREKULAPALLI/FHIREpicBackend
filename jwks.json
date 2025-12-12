@@ -1,8 +1,12 @@
 {
-    "kty": "RSA",
-    "e": "AQAB",
-    "use": "sig",
-    "kid": "cerner-key-1",
-    "alg": "RS384",
-    "n": "olk-nkPkTwCUU3DUPb2gSVSfjTCTEUEMVPVh0oC4okWBp8jFGJIePeuXo8fQbwQJei9HXYMZFnB-VUSMifQMC6D3Zqtbq_QWTw7NEcPyapOkdgej9x_p9cdrFqagE6jlXWQH_U05wGTjUZywRKDMUnbVPFMsP11V_2dqaoUg6Lu96uLbQo0zXh5a9BHIDm0Te0m0kUoXJlatidLb2IM-_192SIXeFavl_DPjdEq3GIGUhyXqzryB_jjZZkcGQdurit2F5Li6mFGj0RTjJ7jlN3VfKQ68gAxbxrH_DodUbZRKrYLjrWKb2uIkiNy9D80VmoieEJNAmbhXVtVYTDVNBjFhnHlAomnuNzj887a5IogBhVi9ADa91Q-ri7x4Gbei5L24N9CN1jGHW4RZANfyDcy4iaSBhb-tRjlfL9h9PFv4g13SyVZu2QC588RlJjRrEt7xYz86jToPlCMDKKd1lj5ZyBGi96535kAyuQORSgt6o8T8VV9qpElUMVeFnnbVrJdtmG5UQuQo19eW8MRM3Dw2knHCD93BFN1SdFwHhqin68Pn44RjxHypmNqauij0bISm9f1aOvKoTwqnXwyB3TNe6F9xdw2u_oNFM859e549lVe0qkuC68ndj5EMyulfAXfyarBCXlQ40DAlNTPz861M-nk-r4zVmDazaz3bpb8"
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "cerner-key-1",
+      "alg": "RS384",
+      "n": "3sfiwZA8XmGFy71VV7BhbFRYYwSNwfZIRSZfP82ky4KcptT8J7iPQoBrj8U3vKLwOi_K8DFomGohU-K3g78EI4OTxVjvULh5-ct8ckXUxUjJqyuPHSPEWSlLle1qLkz0dToNtuOpY87Dq1WmIdYfwy4kepVYz8kcHgl13X4VjikXwil2yplz-Rwstpr5-_eS5tb8dE703aMj0t6ChigKgDzVf_81RBgKf1ByW0VuH13NoVKgXN4KhXpcRtmp4Q4GAy0n5txtFkBK5tSOKA1ScOHdYOTx3Mm1ZAUzHFpAdOpqvLpdASu6XhBDlHU2hNnAX-czXctRmE2pcNgXSwS0PtSogIDF6Fc_4EucweJmJeALXndee56GIE5bpaiXdhe7n3WaTGVpCT-3WvaQtWQ3tArKUm1eOQG45EU3BqqYpy-7Ui-naZblsjQVITyt4af0WRHQLQ_E61MBbLTinl-ys5BkfGPWqiBwDISYAF4ZYEzdGlA-hBEBX1zpJPYhD03cSfhlJxxSD3SAz6dr6yOXhu8fW-e5emJi_oiuTcQHM0Qi62BfWh_oeZ8LrkP3A71wLGEG9UWT9PE5RiJf5RX8pE2NZYuKnVc7dK2gb-HDS50aHMSk1lRUQbiFU45s6xPTqi3mJXMhlFzSA15-jr5yJePtb5EHgRFtgg4ubUkoJhs",
+      "e": "AQAB"
+    }
+  ]
 }
